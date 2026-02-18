@@ -1,4 +1,4 @@
 [submodule "portfolio"]
 	path = portfolio
-	url = https://github.com/ruby-kim/portfolio
+	url = git@github.com:ruby-kim/portfolio.git
 	branch = main
